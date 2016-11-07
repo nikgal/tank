@@ -1,0 +1,15 @@
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\bin\Release\Tanks.exe
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\bin\Release\Tanks.pdb
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\obj\x86\Release\Tanks.MainForm.resources
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\obj\x86\Release\Tanks.Properties.Resources.resources
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\obj\x86\Release\Tanks.csproj.GenerateResource.Cache
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\obj\x86\Release\Tanks.exe
+C:\Users\Галл\AppData\Local\Temporary Projects\Tanks\obj\x86\Release\Tanks.pdb
+C:\projects\tanks\Tanks\Tanks\obj\x86\Release\Tanks.csproj.GenerateResource.Cache
+C:\projects\tanks\Tanks\Tanks\obj\x86\Release\Tanks.exe
+C:\projects\tanks\Tanks\Tanks\obj\x86\Release\Tanks.pdb
+C:\projects\tanks\Tanks\Tanks\bin\Release\Tanks.exe
+C:\projects\tanks\Tanks\Tanks\bin\Release\Tanks.pdb
+C:\projects\tanks\Tanks\Tanks\obj\x86\Release\Tanks.Controller_MainForm.resources
+C:\projects\tanks\Tanks\Tanks\obj\x86\Release\Tanks.Properties.Resources.resources
+C:\projects\tanks\Tanks\Tanks\obj\x86\Release\Tanks.View.resources
